@@ -1,4 +1,4 @@
-IBM Data Science Professional Certificate – Python & SQL 실습
+##IBM Data Science Professional Certificate – Python & SQL 실습##
 
 IBM Data Science Professional Certificate 과정에서 진행한 실습 노트북 모음입니다. 과정 커리큘럼에 포함된 랩(실습)이고, 직접 기획한 프로젝트가 아닙니다.
 
